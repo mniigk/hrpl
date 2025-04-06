@@ -1,5 +1,5 @@
 # Half-Raw Programming Language.
-# *v0.3*
+# *v0.3.2*
 
 ## **INDEX.**
 1. Terms.
@@ -36,7 +36,7 @@ included.
 functions, structures, etc.) should
 be separated to blocks.
 4.4. Instead of start tabulation use
-2 spaces.
+3 spaces.
 
 ## **5. FILES.**
 5.1. Because of the file sorting
