@@ -31,11 +31,7 @@ to the most concrete.
 size of 32 symbols to support [3.2.].
 4.2. Any comment line should be
 numerated up to 4 levels depth
-included.
-4.2. Any numerated comment line
-should be started and ended on the
-single line to prevent file
-bloating.  
+included.  
 4.3. All complex code entities (like
 functions, structures, etc.) should
 be separated to blocks.
